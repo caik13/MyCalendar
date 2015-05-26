@@ -1,0 +1,9 @@
+<com.example.mycalender.widget.CalendarViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/calendar_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    
+</com.example.mycalender.widget.CalendarViewPager>
+
